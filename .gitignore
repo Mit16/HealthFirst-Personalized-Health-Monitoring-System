@@ -1,0 +1,21 @@
+# Frontend
+/frontend/node_modules/
+/frontend/.env
+
+# Backend
+/backend/target/
+/backend/.env
+/backend/.idea/
+/backend/*.iml
+
+# Wear OS
+/wearos/.gradle/
+/wearos/.idea/
+/wearos/local.properties
+/wearos/.cxx/
+/wearos/build/
+
+# Global
+.DS_Store
+Thumbs.db
+*.log
