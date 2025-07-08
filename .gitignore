@@ -19,3 +19,9 @@
 .DS_Store
 Thumbs.db
 *.log
+
+/backend/ai-prediction-service/src/main/resources/application.properties
+/backend/alert_service/src/main/resources/application.properties
+/backend/auth-service/src/main/resources/application.properties
+/backend/user-service/src/main/resources/application.properties
+/backend/health-data-service/src/main/resources/application.properties
